@@ -3,6 +3,7 @@ import numpy as np
 import scipy
 import scipy.io as io
 import h5py
+import matplotlib.pyplot as plt
 
 def extract_mat_file(filepath):
     """
