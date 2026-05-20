@@ -82,3 +82,10 @@ Overlay the CNR‑vs‑Voltage curves for **Wild Type (WT)** GVs and **Stripped 
 ### 7. Load Excel Data and Find Hydrostatic Collapse Pressure
 
 Load the provided Excel file containing collapse measurements for each GV sample. For each sample, determine the **hydrostatic collapse pressure** – the pressure at which the GV population collapses. Plot the collapse curves and annotate the collapse pressure values.
+
+
+### TODO
+
+0. Add VERY detailed setup enviorment instructions.
+1. Loop file extraction in a function for convenience.
+2. Update Slide location for log-compression formula
